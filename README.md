@@ -89,3 +89,4 @@ If you like the template, please star this repository to inspire the team to cre
 ### ✨ Browse and Download - Best Free [Next.js Templates](https://nextjstemplates.com/templates)
 # ark-platforms-inc
 # ark-platforms-inc
+# ark
